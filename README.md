@@ -8,4 +8,5 @@ Furthermore, this website can act as a "portfolio" of the numerous events taking
 ## Scope
 Social media have the power to reach anyone, anywhere in the world. However, they rarely do. This website aims at concentrating all interest to a single source which itself is maintained and brought to life by the students. The link can be shared to anyone and a special domain could be procured! With an easy to maintain website, we hope to boost the output of clubs in co-curricular and extra-curricular activities.
 
+
 *Brought to you by the Collège du St Esprit Coding Club.*
